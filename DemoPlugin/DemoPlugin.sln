@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoPlugin", "DemoPlugin\DemoPlugin.csproj", "{58C04AC4-DFCD-49F9-9BF3-E8240592F3BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoPlugin", "src\DemoPlugin.csproj", "{A4AA1C9B-F4DA-4B58-A5ED-A95E06D70199}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD08438B-1C4A-4FFA-A856-D5285D570BB8}"
+	ProjectSection(SolutionItems) = preProject
+		.vscode\launch.json = .vscode\launch.json
+		.vscode\tasks.json = .vscode\tasks.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +17,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{58C04AC4-DFCD-49F9-9BF3-E8240592F3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{58C04AC4-DFCD-49F9-9BF3-E8240592F3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{58C04AC4-DFCD-49F9-9BF3-E8240592F3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{58C04AC4-DFCD-49F9-9BF3-E8240592F3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4AA1C9B-F4DA-4B58-A5ED-A95E06D70199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4AA1C9B-F4DA-4B58-A5ED-A95E06D70199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4AA1C9B-F4DA-4B58-A5ED-A95E06D70199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4AA1C9B-F4DA-4B58-A5ED-A95E06D70199}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F627919D-59F2-470B-BFAB-8D932B3514F8}
+		SolutionGuid = {1C04A10A-A4D3-4205-94BE-47CB0006A47F}
 	EndGlobalSection
 EndGlobal

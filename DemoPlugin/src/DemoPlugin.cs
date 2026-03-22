@@ -2,6 +2,8 @@ namespace Loupedeck.DemoPlugin
 {
     using System;
 
+    // This class contains the plugin-level logic of the Loupedeck plugin.
+
     public class DemoPlugin : Plugin
     {
         // Gets a value indicating whether this is an API-only plugin.

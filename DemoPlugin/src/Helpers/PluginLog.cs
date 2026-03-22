@@ -2,7 +2,7 @@ namespace Loupedeck.DemoPlugin
 {
     using System;
 
-    // A helper class to write to the plugin log.
+    // A helper class that enables logging from the plugin code.
 
     internal static class PluginLog
     {

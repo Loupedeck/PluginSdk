@@ -199,8 +199,44 @@ dotnet_naming_style.begins_with_i.capitalization = pascal_case
 
 dotnet_diagnostic.CA1028.severity = none
 dotnet_diagnostic.CA1031.severity = none
-dotnet_diagnostic.CA1303.severity = none
+dotnet_diagnostic.CA1054.severity = none
+dotnet_diagnostic.CA1056.severity = none
 dotnet_diagnostic.CA1060.severity = none
+dotnet_diagnostic.CA1303.severity = none
+dotnet_diagnostic.CA1308.severity = none
+dotnet_diagnostic.CA1716.severity = none
+dotnet_diagnostic.CA1720.severity = none
 dotnet_diagnostic.CA2101.severity = none
+dotnet_diagnostic.CA2234.severity = none
+dotnet_diagnostic.CA5350.severity = none
+dotnet_diagnostic.CA9998.severity = none
 
+dotnet_diagnostic.CS1591.severity = none
+
+dotnet_diagnostic.IDE0002.severity = none
+dotnet_diagnostic.IDE0021.severity = warning
+dotnet_diagnostic.IDE0022.severity = warning
 dotnet_diagnostic.IDE0058.severity = none
+dotnet_diagnostic.IDE0059.severity = none
+
+dotnet_diagnostic.SA1108.severity = none
+dotnet_diagnostic.SA1117.severity = none
+dotnet_diagnostic.SA1121.severity = none
+dotnet_diagnostic.SA1122.severity = none
+dotnet_diagnostic.SA1131.severity = none
+dotnet_diagnostic.SA1201.severity = none
+dotnet_diagnostic.SA1202.severity = none
+dotnet_diagnostic.SA1203.severity = none
+dotnet_diagnostic.SA1204.severity = none
+dotnet_diagnostic.SA1214.severity = none
+dotnet_diagnostic.SA1309.severity = none
+dotnet_diagnostic.SA1512.severity = none
+dotnet_diagnostic.SA1513.severity = none
+dotnet_diagnostic.SA1600.severity = none
+dotnet_diagnostic.SA1601.severity = none
+dotnet_diagnostic.SA1602.severity = none
+dotnet_diagnostic.SA1629.severity = none
+dotnet_diagnostic.SA1633.severity = none
+
+dotnet_diagnostic.SX1309.severity = warning
+dotnet_diagnostic.SX1309S.severity = warning
